@@ -2,7 +2,7 @@
 The challenge is to program a simple version of the game Battleships. (**Single human player**; **one-sided game**)
 
 
-###Create an application to allow: 
+## Create an application to allow: 
 
 1) Single human player
 
@@ -16,7 +16,7 @@ The challenge is to program a simple version of the game Battleships. (**Single 
 
   * 2x Destroyers (4 squares)
 
-Gameplay:
+## Gameplay:
 
 1) The player enters or selects coordinates of the form “A5”, where “A” is the column and “5” is the row, to specify a square to target. 
 
