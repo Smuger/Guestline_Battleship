@@ -12,9 +12,9 @@ The challenge is to program a simple version of the game Battleships. (**Single 
 
 4) place ships at random:
 
-  a) 1x Battleship (5 squares) 
+  * 1x Battleship (5 squares) 
 
-  b) 2x Destroyers (4 squares)
+  * 2x Destroyers (4 squares)
 
 Gameplay:
 
