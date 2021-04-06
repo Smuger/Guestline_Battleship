@@ -1,20 +1,20 @@
 # Guestline_Battleship
-The challenge is to program a simple version of the game Battleships. 
+The challenge is to program a simple version of the game Battleships. (**Single human player**; **one-sided game**)
 
 
-Create an application to allow: 
+###Create an application to allow: 
 
-### Single human player
+1) Single human player
 
-### Play a one-sided game of Battleships against ships placed by the computer.
+2) Play a one-sided game of Battleships against ships placed by the computer.
 
-### The program should create a 10x10 grid
+3) The program should create a 10x10 grid
 
-### place ships at random:
+4) place ships at random:
 
-#### 1x Battleship (5 squares) 
+  a) 1x Battleship (5 squares) 
 
-#### 2x Destroyers (4 squares)
+  b) 2x Destroyers (4 squares)
 
 Gameplay:
 
