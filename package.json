@@ -1,0 +1,25 @@
+{
+  "name": "guestline_battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require ts-node/register --watch-extensions ts 'test/**/*.ts'"
+  },
+  "author": "Krzysztof Kwietniewski",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "process": "^0.11.10",
+    "readline": "^1.3.0",
+    "unidecode": "^0.1.8"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.16",
+    "@types/mocha": "^8.2.2",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
