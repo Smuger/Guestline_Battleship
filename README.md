@@ -25,6 +25,6 @@ Gameplay:
 3) The game ends when all ships are sunk.
 
 
-* You can write a console application or UI to complete the task. 
+*You can write a console application or UI to complete the task. 
 Try to code the challenge as you would approach any typical work task; we are not looking for you to show knowledge of frameworks or unusual programming language features. 
 Most importantly, keep it simple.*
