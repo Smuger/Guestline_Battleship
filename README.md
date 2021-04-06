@@ -1,4 +1,4 @@
-# Guestline_Battleship
+# Guestline Battleship
 The challenge is to program a simple version of the game Battleships. (**Single human player**; **one-sided game**)
 
 ## How to run?
