@@ -19,7 +19,7 @@ node GameBoard
 
 3) The program should create a 10x10 grid
 
-4) place ships at random:
+4) Place ships at random:
 
   * 1x Battleship (5 squares) 
 
