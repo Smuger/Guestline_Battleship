@@ -29,6 +29,8 @@ node GameBoard
 
 1) The player enters or selects coordinates of the form “A5”, where “A” is the column and “5” is the row, to specify a square to target. 
 
+![The player enters or selects coordinates](gif/Player enters or selects coordinates of the form.gif)
+
 2) Shots result in hits, misses or sinks.
 
 3) The game ends when all ships are sunk.
