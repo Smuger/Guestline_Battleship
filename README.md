@@ -1,6 +1,15 @@
 # Guestline_Battleship
 The challenge is to program a simple version of the game Battleships. (**Single human player**; **one-sided game**)
 
+## How to run?
+```
+npm install
+```
+
+```
+node GameBoard
+```
+
 
 ## Create an application to allow: 
 
