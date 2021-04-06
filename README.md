@@ -29,11 +29,15 @@ node GameBoard
 
 1) The player enters or selects coordinates of the form “A5”, where “A” is the column and “5” is the row, to specify a square to target. 
 
-![The player enters or selects coordinates](gif/Player enters or selects coordinates of the form.gif)
+![The player enters or selects coordinates](Coordinates.gif)
 
 2) Shots result in hits, misses or sinks.
 
+![Shots result in hits, misses or sinks](Shots.gif)
+
 3) The game ends when all ships are sunk.
+
+![The game ends when all ships are sunk](Ends.gif)
 
 
 *You can write a console application or UI to complete the task. 
