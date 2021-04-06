@@ -36,16 +36,16 @@ class Ship implements IShip {
     return this._orientation;
   }
 
-  public set position(setPosition: Array<string>) {
-    this._position = setPosition;
-  }
-
   public get shipFragmentsLeft() {
     return this._shipFragmentsLeft;
   }
 
   public set shipFragmentsLeft(updateFragmentsLeft: number) {
     this._shipFragmentsLeft = updateFragmentsLeft;
+  }
+
+  public set position(setPosition: Array<string>) {
+    this._position = setPosition;
   }
 
   public get position() {

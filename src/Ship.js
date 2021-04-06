@@ -15,14 +15,14 @@ class Ship {
     get orientation() {
         return this._orientation;
     }
-    set position(setPosition) {
-        this._position = setPosition;
-    }
     get shipFragmentsLeft() {
         return this._shipFragmentsLeft;
     }
     set shipFragmentsLeft(updateFragmentsLeft) {
         this._shipFragmentsLeft = updateFragmentsLeft;
+    }
+    set position(setPosition) {
+        this._position = setPosition;
     }
     get position() {
         return this._position;

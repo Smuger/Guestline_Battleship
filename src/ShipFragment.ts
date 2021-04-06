@@ -7,10 +7,8 @@ interface IShipFragment {
 
 class ShipFragment implements IShipFragment {
   private _type: CellType;
-  private _ship?: Ship;
 
-  constructor(type: CellType, ship?: Ship) {
-    this._ship = ship;
+  constructor(type: CellType) {
     this._type = type;
   }
 
