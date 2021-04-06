@@ -10,6 +10,13 @@ npm install
 node GameBoard
 ```
 
+## Tests
+
+```
+npm test -- -w
+```
+
+![Testing](Testing.gif)
 
 ## Create an application to allow: 
 
